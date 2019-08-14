@@ -11,7 +11,7 @@ This website has the following functionality:
 6. Administrator requests new ACCEPTED students from SLATE (you may hard code "GSU" in this request) (you need not provide a login for the administrator)
 7. Administrator requests university level statistics (you may hard code "GSU"; Allow user to choose term and year from pull down list; no login required for this option as well)
 
-Paws should also provide the following REST Web Services:
+Paws provides the following REST Web Services:
 1. Given a department, return a list of students for the department.
 2. Given a department, return a list of courses for the department.
 3. Given department, return a list of enroll information for the department.
